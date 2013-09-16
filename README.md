@@ -43,6 +43,8 @@ Please have a look as http://www.saltaku.com and http://borisbikes.saltaku.com f
 Credits and Contact
 --------------------
 
+Thanks Tom Cairns for CIFReader: https://github.com/swlines/CIFReader and dr. Tamas Nepusz for Igraph: http://igraph.sourceforge.net/
+
 Data contained in this project can be freely reused in any way you wish. If you find any way to cause harm to people using this data, please don't.
 
 My name is Demeter Sztanko, people call me Dimi. You can contact me at sztanko@gmail.com. Also you can follow me on Twitter: @sztanko. I generally tweet about maps and routing.
